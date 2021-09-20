@@ -1,1 +1,1 @@
-### Online Hate Classifer using NLP.
+### Online Hate Classifer based on tweets using NLP.
