@@ -1,1 +1,1 @@
-# NLP_Project_SEM-6
+# Online Hate Classifer using NLP.
