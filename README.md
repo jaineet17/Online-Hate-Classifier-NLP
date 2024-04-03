@@ -37,10 +37,14 @@ Run the Jupyter Notebook to preprocess the data, train models, and evaluate thei
 jupyter notebook Nlp_IA.ipynb
 ```
 ## Methodology
-### Preprocessing: Tokenization, removing stopwords, and vectorization using TF-IDF.
-### Feature Engineering: Generating features like sentiment scores, part-of-speech tags, and syntactic structure.
-### Model Training: Several models are trained, including Logistic Regression, Decision Trees, Artificial Neural Networks (ANN), Support Vector Machines (SVM), and K-Nearest Neighbors (KNN).
-### Evaluation: Models are evaluated based on their accuracy, precision, recall, and F1 score.
+### Preprocessing: 
+Tokenization, removing stopwords, and vectorization using TF-IDF.
+### Feature Engineering: 
+Generating features like sentiment scores, part-of-speech tags, and syntactic structure.
+### Model Training: 
+Several models are trained, including Logistic Regression, Decision Trees, Artificial Neural Networks (ANN), Support Vector Machines (SVM), and K-Nearest Neighbors (KNN).
+### Evaluation: 
+Models are evaluated based on their accuracy, precision, recall, and F1 score.
 ## Models and Performance
 The project explores various models, adjusting parameters and utilizing techniques like cross-validation and grid search to find optimal settings. Performance metrics are provided for each model, demonstrating their effectiveness in classifying tweets.
 
